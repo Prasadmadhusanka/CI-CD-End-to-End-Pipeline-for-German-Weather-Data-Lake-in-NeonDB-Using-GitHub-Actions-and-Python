@@ -1,0 +1,502 @@
+[
+  {
+    "city_id": "Berlin",
+    "longitude": 13.405,
+    "latitude": 52.52
+  },
+  {
+    "city_id": "Hamburg",
+    "longitude": 9.9937,
+    "latitude": 53.5511
+  },
+  {
+    "city_id": "Munich",
+    "longitude": 11.582,
+    "latitude": 48.1351
+  },
+  {
+    "city_id": "Colonge",
+    "longitude": 6.9603,
+    "latitude": 50.9375
+  },
+  {
+    "city_id": "Frankfurt_am_Main",
+    "longitude": 8.6821,
+    "latitude": 50.1109
+  },
+  {
+    "city_id": "Stuttgart",
+    "longitude": 9.1829,
+    "latitude": 48.7758
+  },
+  {
+    "city_id": "D\u00fcsseldorf",
+    "longitude": 6.7735,
+    "latitude": 51.2277
+  },
+  {
+    "city_id": "Leipzig",
+    "longitude": 12.3731,
+    "latitude": 51.3397
+  },
+  {
+    "city_id": "Dortmund",
+    "longitude": 7.4653,
+    "latitude": 51.5136
+  },
+  {
+    "city_id": "Essen",
+    "longitude": 7.0123,
+    "latitude": 51.4556
+  },
+  {
+    "city_id": "Bremen",
+    "longitude": 8.8017,
+    "latitude": 53.0793
+  },
+  {
+    "city_id": "Dresden",
+    "longitude": 13.7373,
+    "latitude": 51.0504
+  },
+  {
+    "city_id": "Hannover",
+    "longitude": 9.732,
+    "latitude": 52.3759
+  },
+  {
+    "city_id": "Nuremberg",
+    "longitude": 11.0733,
+    "latitude": 49.4506
+  },
+  {
+    "city_id": "Duisburg",
+    "longitude": 6.7623,
+    "latitude": 51.4344
+  },
+  {
+    "city_id": "Bochum",
+    "longitude": 7.2162,
+    "latitude": 51.4818
+  },
+  {
+    "city_id": "Wuppertal",
+    "longitude": 7.1508,
+    "latitude": 51.2562
+  },
+  {
+    "city_id": "Bielefeld",
+    "longitude": 8.5325,
+    "latitude": 52.0302
+  },
+  {
+    "city_id": "Bonn",
+    "longitude": 7.0982,
+    "latitude": 50.7374
+  },
+  {
+    "city_id": "M\u00fcnster",
+    "longitude": 7.6296,
+    "latitude": 51.9607
+  },
+  {
+    "city_id": "Mannheim",
+    "longitude": 8.467,
+    "latitude": 49.4875
+  },
+  {
+    "city_id": "Karlsruhe",
+    "longitude": 8.4037,
+    "latitude": 49.0069
+  },
+  {
+    "city_id": "Augsburg",
+    "longitude": 10.8978,
+    "latitude": 48.3705
+  },
+  {
+    "city_id": "Wiesbaden",
+    "longitude": 8.2415,
+    "latitude": 50.0782
+  },
+  {
+    "city_id": "M\u00f6nchengladbach",
+    "longitude": 6.4417,
+    "latitude": 51.1805
+  },
+  {
+    "city_id": "Gelsenkirchen",
+    "longitude": 7.1006,
+    "latitude": 51.5111
+  },
+  {
+    "city_id": "Aachen",
+    "longitude": 6.0839,
+    "latitude": 50.7753
+  },
+  {
+    "city_id": "Braunschweig",
+    "longitude": 10.5268,
+    "latitude": 52.2689
+  },
+  {
+    "city_id": "Kiel",
+    "longitude": 10.1228,
+    "latitude": 54.3233
+  },
+  {
+    "city_id": "Chemnitz",
+    "longitude": 12.9253,
+    "latitude": 50.8278
+  },
+  {
+    "city_id": "Halle ",
+    "longitude": 11.9688,
+    "latitude": 51.4969
+  },
+  {
+    "city_id": "Magdeburg",
+    "longitude": 11.6276,
+    "latitude": 52.1205
+  },
+  {
+    "city_id": "Freiburg_im_Breisgau",
+    "longitude": 7.8522,
+    "latitude": 47.999
+  },
+  {
+    "city_id": "Krefeld",
+    "longitude": 6.5794,
+    "latitude": 51.3388
+  },
+  {
+    "city_id": "Mainz",
+    "longitude": 8.2473,
+    "latitude": 49.9929
+  },
+  {
+    "city_id": "L\u00fcbeck",
+    "longitude": 10.6866,
+    "latitude": 53.8655
+  },
+  {
+    "city_id": "Erfurt",
+    "longitude": 11.0299,
+    "latitude": 50.9848
+  },
+  {
+    "city_id": "Oberhausen",
+    "longitude": 6.85222,
+    "latitude": 51.4702
+  },
+  {
+    "city_id": "Rostock",
+    "longitude": 12.0991,
+    "latitude": 54.0924
+  },
+  {
+    "city_id": "Kassel",
+    "longitude": 9.4797,
+    "latitude": 51.3127
+  },
+  {
+    "city_id": "Hagen",
+    "longitude": 7.4717,
+    "latitude": 51.3671
+  },
+  {
+    "city_id": "Potsdam",
+    "longitude": 13.0645,
+    "latitude": 52.3906
+  },
+  {
+    "city_id": "Saarbr\u00fccken",
+    "longitude": 6.9969,
+    "latitude": 49.2402
+  },
+  {
+    "city_id": "Hamm",
+    "longitude": 7.808,
+    "latitude": 51.6806
+  },
+  {
+    "city_id": "Ludwigshafen_am_Rhein",
+    "longitude": 8.4464,
+    "latitude": 49.4774
+  },
+  {
+    "city_id": "M\u00fclheim_an_der_Ruhr",
+    "longitude": 6.8827,
+    "latitude": 51.427
+  },
+  {
+    "city_id": "Oldenburg",
+    "longitude": 8.2146,
+    "latitude": 53.1435
+  },
+  {
+    "city_id": "Osnabr\u00fcck",
+    "longitude": 8.0472,
+    "latitude": 52.2799
+  },
+  {
+    "city_id": "Leverkusen",
+    "longitude": 7.0038,
+    "latitude": 51.0459
+  },
+  {
+    "city_id": "Darmstadt",
+    "longitude": 8.6512,
+    "latitude": 49.8728
+  },
+  {
+    "city_id": "Heidelberg",
+    "longitude": 8.6908,
+    "latitude": 49.3988
+  },
+  {
+    "city_id": "Solingen",
+    "longitude": 7.083,
+    "latitude": 51.165
+  },
+  {
+    "city_id": "Herne",
+    "longitude": 7.2197,
+    "latitude": 51.5369
+  },
+  {
+    "city_id": "Regensburg",
+    "longitude": 12.1016,
+    "latitude": 49.0134
+  },
+  {
+    "city_id": "Neuss",
+    "longitude": 6.6917,
+    "latitude": 51.2042
+  },
+  {
+    "city_id": "Paderborn",
+    "longitude": 8.7544,
+    "latitude": 51.7189
+  },
+  {
+    "city_id": "Ingolstadt",
+    "longitude": 11.4257,
+    "latitude": 48.7651
+  },
+  {
+    "city_id": "Offenbach_am_Main",
+    "longitude": 8.7665,
+    "latitude": 50.0956
+  },
+  {
+    "city_id": "F\u00fcrth",
+    "longitude": 10.9887,
+    "latitude": 49.4773
+  },
+  {
+    "city_id": "Ulm",
+    "longitude": 9.9934,
+    "latitude": 48.4011
+  },
+  {
+    "city_id": "W\u00fcrzburg",
+    "longitude": 9.958,
+    "latitude": 49.7913
+  },
+  {
+    "city_id": "Heilbronn",
+    "longitude": 9.2205,
+    "latitude": 49.1427
+  },
+  {
+    "city_id": "Pforzheim",
+    "longitude": 8.6947,
+    "latitude": 48.8847
+  },
+  {
+    "city_id": "Wolfsburg",
+    "longitude": 10.7865,
+    "latitude": 52.4227
+  },
+  {
+    "city_id": "Bottrop",
+    "longitude": 6.9285,
+    "latitude": 51.5232
+  },
+  {
+    "city_id": "G\u00f6ttingen",
+    "longitude": 9.934,
+    "latitude": 51.5413
+  },
+  {
+    "city_id": "Reutlingen",
+    "longitude": 9.2109,
+    "latitude": 48.4914
+  },
+  {
+    "city_id": "Koblenz",
+    "longitude": 7.5889,
+    "latitude": 50.3569
+  },
+  {
+    "city_id": "Erlangen",
+    "longitude": 11.0038,
+    "latitude": 49.5897
+  },
+  {
+    "city_id": "Bremerhaven",
+    "longitude": 8.5775,
+    "latitude": 53.5396
+  },
+  {
+    "city_id": "Remscheid",
+    "longitude": 7.1925,
+    "latitude": 51.1787
+  },
+  {
+    "city_id": "Bergisch_Gladbach",
+    "longitude": 7.136,
+    "latitude": 50.9853
+  },
+  {
+    "city_id": "Recklinghausen",
+    "longitude": 7.197,
+    "latitude": 51.6141
+  },
+  {
+    "city_id": "Trier",
+    "longitude": 6.6413,
+    "latitude": 49.7499
+  },
+  {
+    "city_id": "Jena",
+    "longitude": 11.586,
+    "latitude": 50.9271
+  },
+  {
+    "city_id": "Moers",
+    "longitude": 6.6278,
+    "latitude": 51.4592
+  },
+  {
+    "city_id": "Salzgitter",
+    "longitude": 10.3341,
+    "latitude": 52.1605
+  },
+  {
+    "city_id": "Siegen",
+    "longitude": 8.024,
+    "latitude": 50.8748
+  },
+  {
+    "city_id": "G\u00fctersloh",
+    "longitude": 8.3858,
+    "latitude": 51.904
+  },
+  {
+    "city_id": "Hildesheim",
+    "longitude": 9.9534,
+    "latitude": 52.1548
+  },
+  {
+    "city_id": "Flensburg",
+    "longitude": 9.4333,
+    "latitude": 54.7833
+  },
+  {
+    "city_id": "Marburg",
+    "longitude": 8.7721,
+    "latitude": 50.8067
+  },
+  {
+    "city_id": "Wilhelmshaven",
+    "longitude": 8.11253,
+    "latitude": 53.53
+  },
+  {
+    "city_id": "Fulda",
+    "longitude": 9.6808,
+    "latitude": 50.5558
+  },
+  {
+    "city_id": "Cuxhaven",
+    "longitude": 8.6879,
+    "latitude": 53.8593
+  },
+  {
+    "city_id": "Stralsund",
+    "longitude": 13.0818,
+    "latitude": 54.309
+  },
+  {
+    "city_id": "Eisenach",
+    "longitude": 10.32,
+    "latitude": 50.98
+  },
+  {
+    "city_id": "Bad_Hersfeld",
+    "longitude": 9.7089,
+    "latitude": 50.8667
+  },
+  {
+    "city_id": "Garmisch-Partenkirchen",
+    "longitude": 11.0958,
+    "latitude": 47.4921
+  },
+  {
+    "city_id": "Sonthofen",
+    "longitude": 10.2813,
+    "latitude": 47.5208
+  },
+  {
+    "city_id": "Bad_Reichenhall",
+    "longitude": 12.8756,
+    "latitude": 47.7231
+  },
+  {
+    "city_id": "Bad_Wildungen",
+    "longitude": 9.1245,
+    "latitude": 51.1197
+  },
+  {
+    "city_id": "F\u00fcssen",
+    "longitude": 10.7003,
+    "latitude": 47.5719
+  },
+  {
+    "city_id": "Sylt",
+    "longitude": 8.318,
+    "latitude": 54.9083
+  },
+  {
+    "city_id": "Winterberg",
+    "longitude": 8.5347,
+    "latitude": 51.1921
+  },
+  {
+    "city_id": "Oberstdorf",
+    "longitude": 10.2794,
+    "latitude": 47.4096
+  },
+  {
+    "city_id": "Berchtesgaden",
+    "longitude": 13.0,
+    "latitude": 47.6306
+  },
+  {
+    "city_id": "Schliersee",
+    "longitude": 11.8636,
+    "latitude": 47.7361
+  },
+  {
+    "city_id": "Mittenwald",
+    "longitude": 11.2641,
+    "latitude": 47.4427
+  },
+  {
+    "city_id": "Reit_im_Winkl",
+    "longitude": 12.4703,
+    "latitude": 47.6772
+  }
+]

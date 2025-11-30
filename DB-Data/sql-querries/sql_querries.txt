@@ -1,0 +1,67 @@
+CREATE DATABASE germany_weather_db;
+
+
+
+CREATE EXTENSION IF NOT EXISTS postgis;
+
+
+
+CREATE TABLE state (
+    state_id varchar(30) NOT NULL,
+    state_name varchar(30) NOT NULL,
+    state_flag_image_url VARCHAR(150),
+    geom GEOMETRY(MultiPolygon, 4326) NOT NULL,
+    CONSTRAINT pk_state PRIMARY KEY(state_id)
+);
+
+
+
+CREATE TABLE city (
+    city_id VARCHAR(30) NOT NULL,
+    city_name VARCHAR(30) NOT NULL,
+    state_id VARCHAR(30) NOT NULL,
+    image_url VARCHAR(150),
+    geom GEOMETRY(Point, 4326) NOT NULL,
+    CONSTRAINT pk_city PRIMARY KEY(city_id),
+    CONSTRAINT fk_city_state FOREIGN KEY(state_id)
+        REFERENCES state(state_id)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+);
+
+
+
+
+CREATE TABLE weather_data (
+    record_id SERIAL PRIMARY KEY,
+    datetime TIMESTAMP NOT NULL,
+    city_id VARCHAR(30) NOT NULL,
+    sunrise TIMESTAMP,
+    sunset TIMESTAMP,
+    weather_icon VARCHAR(10),
+    weather_description VARCHAR(50),
+    snow_1h NUMERIC,
+    rain_1h NUMERIC,
+    visibility NUMERIC,
+    temperature NUMERIC,
+    feels_like NUMERIC,
+    cloud NUMERIC,
+    humidity NUMERIC,
+    pressure NUMERIC,
+    wind_deg NUMERIC,
+    wind_speed NUMERIC,
+    CONSTRAINT fk_weather_city FOREIGN KEY(city_id)
+        REFERENCES city(city_id)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+);
+
+
+
+COPY state (state_id, state_name, state_flag_image_url, geom)
+FROM 'C:\germany_state_data.txt'
+DELIMITER E'\t';
+
+COPY city (city_id, city_name, state_id, image_url, geom)
+FROM 'C:\germany_city_data.txt'
+DELIMITER E'\t';
